@@ -1,4 +1,4 @@
-<img width="726" height="586" alt="Capture d&#39;écran 2026-02-24 133843" src="https://github.com/user-attachments/assets/9a9d17f0-1c90-406a-a28d-84f2329b07ce" />﻿# Gestion des Réservations Avancée – JPA / Hibernate
+# Gestion des Réservations Avancées
 
 Ce projet est une application Java développée avec **Maven**, utilisant **JPA (Hibernate)** pour la gestion de la persistance des données et **H2** comme base de données en mémoire.
 
@@ -146,24 +146,28 @@ Création de `SalleService` :
 
 ### 2️⃣ Test recherche salles disponibles par créneau
 
+<img width="908" height="606" alt="Capture d&#39;écran 2026-02-24 134314" src="https://github.com/user-attachments/assets/46f2fcec-9f46-413d-bd88-c19d28727406" />
+<img width="986" height="707" alt="Capture d&#39;écran 2026-02-24 134332" src="https://github.com/user-attachments/assets/a49fbd47-5081-4a01-b931-de6c9599aa52" />
+<img width="387" height="164" alt="Capture d&#39;écran 2026-02-24 134339" src="https://github.com/user-attachments/assets/db67841e-7fc1-4ada-a365-bc8e16651627" />
 
 ### 3️⃣ Test recherche multi-critères
+
 <img width="645" height="483" alt="Capture d&#39;écran 2026-02-24 134513" src="https://github.com/user-attachments/assets/07a818b4-c080-4fec-9885-e618d1edeaa6" />
-
-
-
-
-
+<img width="735" height="438" alt="Capture d&#39;écran 2026-02-24 134523" src="https://github.com/user-attachments/assets/c7187745-51a2-4707-b426-e6a96d408f90" />
+<img width="737" height="468" alt="Capture d&#39;écran 2026-02-24 134533" src="https://github.com/user-attachments/assets/50b98d41-948b-44ad-a814-abfc7d7320ae" />
 
 ### 4️⃣ Test pagination
 
-
+<img width="740" height="663" alt="Capture d&#39;écran 2026-02-24 140243" src="https://github.com/user-attachments/assets/00c82e22-c20f-43ee-861c-551dd1c6cb33" />
+<img width="710" height="440" alt="Capture d&#39;écran 2026-02-24 140252" src="https://github.com/user-attachments/assets/f36d960e-9332-426d-aa3d-65d7aa24ceb3" />
+<img width="676" height="404" alt="Capture d&#39;écran 2026-02-24 140303" src="https://github.com/user-attachments/assets/9fe29171-9204-4470-af7f-ae4345282514" />
+<img width="634" height="623" alt="Capture d&#39;écran 2026-02-24 140314" src="https://github.com/user-attachments/assets/8cbf08c3-d334-4b8b-a47d-09a7b8963b2b" />
+<img width="461" height="215" alt="Capture d&#39;écran 2026-02-24 140323" src="https://github.com/user-attachments/assets/bb10f356-c7ee-469f-8f09-9ea97b2aa49f" />
 
 ---
-
 
 # 👩‍💻 Auteur
 
 - Nom : Malak El Mallouky
-
 - Filière : SIR  
+
