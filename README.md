@@ -1,4 +1,4 @@
-# Gestion des Réservations Avancées
+# Gestion des Réservations Avancées – JPA / Hibernate / H2
 
 Ce projet est une application Java développée avec **Maven**, utilisant **JPA (Hibernate)** pour la gestion de la persistance des données et **H2** comme base de données en mémoire.
 
@@ -170,4 +170,5 @@ Création de `SalleService` :
 
 - Nom : Malak El Mallouky
 - Filière : SIR  
+
 
